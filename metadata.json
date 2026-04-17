@@ -1,0 +1,5 @@
+{
+  "name": "SiteHealth SEO Audit Tool v2",
+  "description": "Improved internal tool for technical and SEO health monitoring of journeyrouters.com. Fixed Next.js rendering, expanded detection, better UI.",
+  "requestFramePermissions": []
+}
