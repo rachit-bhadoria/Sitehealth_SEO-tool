@@ -1,6 +1,7 @@
 node_modules/
 dist/
 build/
+.claude/
 .DS_Store
 *.log
 .env*
