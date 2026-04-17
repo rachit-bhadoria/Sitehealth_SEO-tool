@@ -35,6 +35,8 @@
 
 ## Quick Start
 
+For a full setup and usage walkthrough, see [INSTALLATION_AND_USAGE.md](INSTALLATION_AND_USAGE.md).
+
 ```bash
 # 1. Install dependencies
 npm install
